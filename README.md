@@ -6,37 +6,23 @@
 
 ---
 
-### 🧑‍💻 A Little Bit About Me and My Interests
+### 🧑‍💻 About Me and My Interests
 
 ```yaml
-located_in:          Pune, Maharashtra, India
-currently_pursuing:  M.Sc. Scientific Computing, Modeling & Simulation
-university:          Savitribai Phule Pune University (SPPU)
-
-education:
-  [
-    "M.Sc. Scientific Computing, Modeling & Simulation — SPPU",
-    "B.Sc. Computer Science",
-  ]
-
-fields_of_interests:
-  [
-    "Numerical Methods & Computational Mathematics",
-    "Data Structures & Algorithms",
-    "Backend Development",
-    "Mathematical Modeling & Simulation",
-    "System Design",
-  ]
-
-technical_background:
-  [
-    "Spring Boot Backend Development",
-    "Agriculture Web Platform — FarmFeed",
-    "Numerical Methods Implementations",
-  ]
-
-currently_learning:  ["System Design", "Advanced DSA", "Scientific Simulation"]
-hobbies:             ["Problem Solving", "Competitive Programming", "Reading"]
+name: Pankaj Jadhav
+degree: MSc Scientific Computing, Modeling & Simulation
+university: Savitribai Phule Pune University
+location: Pune, India
+focus:
+  - Numerical Methods & Computational Mathematics
+  - Spring Boot Backend Development
+  - Data Structures & Algorithms
+  - Mathematical Modeling & Simulation
+interests:
+  # where math meets code
+  - Scientific Computing
+  - System Design
+  - Problem Solving
 ```
 
 ---
@@ -44,7 +30,7 @@ hobbies:             ["Problem Solving", "Competitive Programming", "Reading"]
 ### ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,js,html,css,mysql,git,github,matlab&perline=10" />
+  <img src="https://skillicons.dev/icons?i=c/c++,java,springboot,python,js,html,css,mysql,git,github,matlab&perline=10" />
 </p>
 
 ---
@@ -53,9 +39,9 @@ hobbies:             ["Problem Solving", "Competitive Programming", "Reading"]
 
 | 🗂 Project | 📄 Description | 🛠 Stack |
 |---|---|---|
-| 🌾 **FarmFeed** | Agriculture web platform connecting farmers & consumers | Spring Boot · MySQL |
-| 📐 **Numerical Methods** | Interpolation, eigenvalue solvers & computational math | Python · SciPy · NumPy |
-| 🧩 **LeetCode DSA** | Daily problem solving — arrays, graphs, dynamic programming | Java |
+| 🌾 **FarmFeed** | Agriculture E-commerce web platform connecting farmers & consumers | Spring Boot · MySQL |
+| 📐 **Numerical Methods** | Interpolation, eigenvalue solvers & computational math | c++ |
+| 🧩 **LeetCode DSA** | Problem solving — arrays,graphs,Linked List,dynamic programming | c++ |
 
 ---
 
@@ -75,16 +61,16 @@ hobbies:             ["Problem Solving", "Competitive Programming", "Reading"]
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_PROFILE">
+  <a href="https://www.linkedin.com/in/pankaj-jadhav-322263366/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/YOUR_PROFILE">
+  <a href="https://leetcode.com/https://leetcode.com/u/Jadhav_Pankaj/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:pankajjadhav1712@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Pankaj-Jadhav17">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -93,7 +79,7 @@ hobbies:             ["Problem Solving", "Competitive Programming", "Reading"]
 
 ### 🧠 Quote
 
-> *"First, solve the problem. Then, write the code."* — John Johnson
+> *"First, solve the problem. Then, write the code."* 
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:22c55e&height=80&section=footer" />
