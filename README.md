@@ -10,7 +10,7 @@
 
 ```yaml
 name: Pankaj Jadhav
-degree: MSc Scientific Computing, Modeling & Simulation
+degree: MSc Scientific Computing Modeling & Simulation
 university: Savitribai Phule Pune University
 location: Pune, India
 focus:
