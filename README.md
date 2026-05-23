@@ -61,13 +61,3 @@ interests:
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
----
-
-### 🧠 Quote
-
-> *"First, solve the problem. Then, write the code."* 
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:22c55e&height=80&section=footer" />
-</div>
