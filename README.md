@@ -6,7 +6,7 @@
 
 ---
 
-### 🧑‍💻 About Me and My Interests
+### 🧑‍💻 About Me 
 
 ```yaml
 name: Pankaj Jadhav
@@ -18,13 +18,7 @@ focus:
   - Spring Boot Backend Development
   - Data Structures & Algorithms
   - Mathematical Modeling & Simulation
-interests:
-  # where math meets code
-  - Scientific Computing
-  - System Design
-  - Problem Solving
-```
-
+  
 ---
 
 ### ⚡ Tech Stack
