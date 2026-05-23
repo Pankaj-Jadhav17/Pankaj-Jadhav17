@@ -43,6 +43,8 @@ focus:
   </a>
 </p>
 
+
+<!--
 ## 📈 Contribution Stats
 
 <div align="center">
@@ -50,4 +52,4 @@ focus:
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pankaj-Jadhav17&theme=github)](https://github.com/Pankaj-Jadhav17)
 
 </div>
----
+--- -->
