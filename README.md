@@ -21,14 +21,11 @@ focus:
 ```
 
 ---
-
-## ⚡ Languages and tools
+## ⚡ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,spring,python,js,html,css,mysql,git,github,react,linux,postman,latex&perline=10" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,spring,python,js,html,css,mysql,git,github,react,linux,postman&perline=14" />
 </p>
-
----
 
 ## 🌐 Connect With Me
 
