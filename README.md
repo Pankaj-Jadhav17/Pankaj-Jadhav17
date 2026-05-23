@@ -42,3 +42,12 @@ focus:
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+## 📈 Contribution Stats
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pankaj-Jadhav17&theme=github)](https://github.com/Pankaj-Jadhav17)
+
+</div>
+---
