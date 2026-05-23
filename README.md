@@ -29,7 +29,7 @@ interests:
 
 ### ⚡ Tech Stack
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,spring,python,js,html,css,mysql,git,github,react,linux,postman,latex,matlab&perline=10" />
 </p>
 
