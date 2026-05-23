@@ -6,7 +6,7 @@
 
 ---
 
-### 🧑‍💻 About Me 
+## 🧑‍💻 About Me
 
 ```yaml
 name: Pankaj Jadhav
@@ -18,25 +18,29 @@ focus:
   - Spring Boot Backend Development
   - Data Structures & Algorithms
   - Mathematical Modeling & Simulation
-  
+```
+
 ---
 
-### ⚡ Tech Stack
+## ⚡ Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,spring,python,js,html,css,mysql,git,github,react,linux,postman,latex,matlab&perline=10" />
 </p>
 
+---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/pankaj-jadhav-322263366/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/https://leetcode.com/u/Jadhav_Pankaj/">
+
+  <a href="https://leetcode.com/u/Jadhav_Pankaj/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
+
   <a href="mailto:pankajjadhav1712@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
