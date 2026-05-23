@@ -33,17 +33,6 @@ interests:
   <img src="https://skillicons.dev/icons?i=c,cpp,java,spring,python,js,html,css,mysql,git,github,react,linux,postman,latex,matlab&perline=10" />
 </p>
 
----
-
-### 🚀 Featured Projects
-
-| 🗂 Project | 📄 Description | 🛠 Stack |
-|---|---|---|
-| 🌾 **FarmFeed** | Agriculture E-commerce web platform connecting farmers & consumers | Spring Boot · MySQL |
-| 📐 **Numerical Methods** | Interpolation, eigenvalue solvers & computational math | c++ |
-| 🧩 **LeetCode DSA** | Problem solving — arrays,graphs,Linked List,dynamic programming | c++ |
-
-
 
 ### 🌐 Connect With Me
 
